@@ -94,14 +94,6 @@ You don’t need to be an expert — just honest.
 
 ---
 
-## 📂 Project Structure
-
-- `README.md` → Overview and instructions  
-- `CONTRIBUTING.md` → Contribution guide  
-- `responses.md` → All responses  
-
----
-
 ## ⭐ Support the Project
 
 If you find this idea meaningful:
@@ -114,9 +106,8 @@ If you find this idea meaningful:
 
 ## 🧩 Final Thought
 
-You don’t need the perfect answer.
-
-Just your answer.
+There may not be one meaning of life.
+But together, we might discover something deeper.
 
 ---
 
